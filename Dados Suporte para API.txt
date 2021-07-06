@@ -1,0 +1,15 @@
+https://api.themoviedb.org/3/movie/550?api_key=d3912dbb29ec5302ab85b7f278b2bd8e
+
+d3912dbb29ec5302ab85b7f278b2bd8e
+
+
+https://resttesttest.com/
+
+https://jsonviewer.stack.hu/
+
+https://material-ui.com/pt/components/material-icons/
+
+
+https://upload.wikimedia.org/wikipedia/commons/b/b9/Youtube_loading_symbol_1_(wobbly).gif
+
+https://www.filmelier.com/pt/br/news/wp-content/uploads/2020/03/netflix-loaging.gif
